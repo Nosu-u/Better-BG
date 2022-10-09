@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.betterbg",
+	"name": "BetterBG",
+	"developer": "nosu",
+	"description": "goes hard",
+	"binary": "BetterBG",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
