@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.betterbg",
+	"id": "nosu.betterbg",
 	"name": "BetterBG",
-	"developer": "nosu",
-	"description": "goes hard af",
-	"binary": "BetterBG",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": false
-		}
-	]
+	"developer": "Nosu",
+	"description": "Changes the boring gd menu background. Original by Italianapkdownloader"
 }
